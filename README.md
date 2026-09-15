@@ -17,11 +17,10 @@
 ### 🤖 AI Engineering & Data Analysis
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,scikitlearn" alt="ai skills" />
+    <img src="https://skillicons.dev/icons?i=py,pandas,scikitlearn" alt="ai skills" />
   </a>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" height="40" alt="langchain" />
-  <img src="https://img.shields.io/badge/LangGraph-FF4B4B?style=flat-square&logo=gitgraph&logoColor=white" height="40" alt="langgraph" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="40" alt="pandas" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=square&logo=langchain&logoColor=white" height="48" alt="langchain" />
+  <img src="https://img.shields.io/badge/LangGraph-FF4B4B?style=square&logo=gitgraph&logoColor=white" height="48" alt="langgraph" />
 </p>
 
 ### 🗄️ Databases & Tools
