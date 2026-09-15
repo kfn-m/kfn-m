@@ -7,26 +7,26 @@
 
 ---
 
-### 📑 Programming Languages
+### 💻 Web Development (PERN Stack)
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,py,postgres,mysql,c,html,css" alt="languages" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,express,postgres,js,ts,tailwind,nextjs,prisma,html,css" alt="web dev skills" />
   </a>
 </p>
 
-### 🚀 Frameworks & Libraries
+### 🤖 AI Engineering & Data Analysis
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,prisma,pandas,scikitlearn" alt="frameworks" />
+    <img src="https://skillicons.dev/icons?i=py,pandas,scikitlearn" alt="ai skills" />
   </a>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=square&logo=langchain&logoColor=white" height="48" alt="langchain" />
   <img src="https://img.shields.io/badge/LangGraph-FF4B4B?style=square&logo=gitgraph&logoColor=white" height="48" alt="langgraph" />
 </p>
 
-### 🗄️ Tools & Technologies
+### 🗄️ Databases & Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,docker,git,github,postman" alt="tools" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,oracle,docker,git,github,postman,c" alt="tools" />
   </a>
 </p>
 
