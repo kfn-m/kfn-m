@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mouad</h1>
-<h3 align="center">PERN Stack Developer | AI Engineer | Data Analyst</h3>
+<h3 align="center">PERN Stack Developer | AI Student | Data Analyst</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kfn-m&label=Profile%20Views&color=0e75b6&style=flat-square" alt="kfn-m" />
