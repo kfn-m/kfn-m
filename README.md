@@ -21,6 +21,8 @@
   </a>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=square&logo=langchain&logoColor=white" height="48" alt="langchain" />
   <img src="https://img.shields.io/badge/LangGraph-FF4B4B?style=square&logo=gitgraph&logoColor=white" height="48" alt="langgraph" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=square&logo=numpy&logoColor=white" height="48" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=square&logo=pandas&logoColor=white" height="48" alt="Pandas" />
 </p>
 
 ### 🗄️ Databases & Tools
